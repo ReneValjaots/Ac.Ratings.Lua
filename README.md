@@ -29,3 +29,14 @@ C:\Users\guest\Desktop\Ratings Manager
 ```
 
 The app automatically fetches the correct `rating_scale` on startup.
+
+## Screenshots
+
+![ratecars_lua](https://github.com/user-attachments/assets/2ef9141f-554b-44cd-add6-ba47294a88c9)
+
+![extrafeatures_lua](https://github.com/user-attachments/assets/9b3cdc70-6c35-4ce7-a517-3953349d1a30)
+
+![settings_lua](https://github.com/user-attachments/assets/517b32fe-8a9b-4892-bf36-0473a199620b)
+
+
+
